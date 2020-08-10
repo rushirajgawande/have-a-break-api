@@ -5,32 +5,32 @@ Use the database provided to import and study - https://www.haveabreak.co.in/
 
 Created API's are as follows:
 
-->'send-otp'
+-> 'send-otp'
 
-->'verify-otp'
+-> 'verify-otp'
 
-'create-agent'
+-> 'create-agent'
 
-'add-agent-details'
+-> 'add-agent-details'
 
-'get-agent-details'
+-> 'get-agent-details'
 
-'delete-agent'
+-> 'delete-agent'
 
-'kyc-doc'
+-> 'kyc-doc'
 
-'upload-profilepic'
+-> 'upload-profilepic'
 
-'reset-password'
+-> 'reset-password'
 
-'get-kyc-status'
+-> 'get-kyc-status'
 
-'get-agent-packages'
+-> 'get-agent-packages'
 
-'view-package-detials'
+-> 'view-package-detials'
 
-'create-lead'
+-> 'create-lead'
 
-'add-lead-followup'
+-> 'add-lead-followup'
 
-'my-bookings'
+-> 'my-bookings'
